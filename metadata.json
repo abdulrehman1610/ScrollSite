@@ -1,0 +1,6 @@
+{
+  "name": "Frostgate Kitchen",
+  "description": "A single-page, full-screen, scroll-driven layered illustration hero for Frostgate Kitchen, a winter mountain kitchen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
